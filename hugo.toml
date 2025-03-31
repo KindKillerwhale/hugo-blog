@@ -2,3 +2,23 @@ baseURL = 'https://rpc.kr/'
 languageCode = 'en-us'
 title = 'kind_killerwhale'
 theme = "hugo-xterm"
+
+[params]
+  author = "DongHyeon Hwang"
+  nickname = "kind_killerwhale"
+  description = "Blockchain Security Researcher, Fuzzer Development"
+  mainSections = ["posts"]
+  centerTheme = true
+  showMenuItems = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
