@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rpc.kr/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-xterm'
+title = 'kind_killerwhale'
+theme = "hugo-xterm"
