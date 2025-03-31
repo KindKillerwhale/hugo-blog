@@ -1,9 +1,3 @@
----
-title: "Home"
-date: 2025-03-31
-draft: false
----
-
 <br/><br/>
 
 # DongHyeon Hwang (*kind_killerwhale*)
