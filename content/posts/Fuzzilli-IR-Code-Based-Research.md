@@ -1,5 +1,5 @@
 +++
-title = "Fuzzilli IR Code Based Research"
+title = "Fuzzilli IR Code Based Research Introduction"
 description = """Perform an in-depth code-level analysis of how Fuzzilli's Intermediate Representation (IR) is implemented, \
 focusing on the construction, transformation, and usage of IR within the fuzzing pipeline."""
 draft = false
@@ -20,3 +20,6 @@ Blocks.swift    Context.swift  JSTyper.swift      Opcodes.swift       Program.sw
  
 ```
 
+&nbsp;
+
+> This page is an introduction, and the analysis will begin in the following pages.
