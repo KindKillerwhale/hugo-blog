@@ -1231,6 +1231,6 @@ public var inWasm: Bool {
 
 &nbsp;
 
-As it was my first time writing in English, it took quite a bit of effort—and I’m sure there are awkward phrases here and there. I relied heavily on translation tools and GPT, so I appreciate your understanding. I did my best to preserve the meaning I intended, and I hope it came across clearly despite the translation.
+As it was my first time writing in English, it took quite a bit of effort—and I’m sure there are awkward phrases here and there. I relied heavily on translation tools and GPT-4, so I appreciate your understanding. I did my best to preserve the meaning I intended, and I hope it came across clearly despite the translation.
 
 Thank you for reading!
