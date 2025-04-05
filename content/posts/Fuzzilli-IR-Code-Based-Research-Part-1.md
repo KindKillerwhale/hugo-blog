@@ -1227,4 +1227,10 @@ public var inWasm: Bool {
 > In summary, `Context` is a critical option set that enables FuzzIL to manage its entire code generation process in a context-sensitive manner. It ensures that various features of JavaScript and WASM can be fuzzed **safely and correctly**, always within valid syntax boundaries.
 
 
+# To close out this post
 
+&nbsp;
+
+As it was my first time writing in English, it took quite a bit of effort—and I’m sure there are awkward phrases here and there. I relied heavily on translation tools and GPT, so I appreciate your understanding. I did my best to preserve the meaning I intended, and I hope it came across clearly despite the translation.
+
+Thank you for reading!
