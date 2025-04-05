@@ -3,7 +3,7 @@ title = "Fuzzilli IR Code Based Research Part 2 ( Opcodes.swift, Operation.swift
 description = """A deep dive into the core IR components of Fuzzilli, focusing on Opcodes.swift, Operation.swift, Program.swift, Variable.swift. This post is the second in the series exploring the IR internal structure of Fuzzilli.
 """
 draft = false
-date = "2025-04-06"
+date = "2025-04-05"
 author = "DongHyeon Hwang ( @kind_killerwhale )"
 tags = ['Fuzzilli', 'IR', 'Fuzzer']
 +++
