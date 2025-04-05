@@ -274,9 +274,9 @@ extension Analyzer {
 
 This is the default implementation (extension) of the `Analyzer` protocol.
 
-- `analyze(program: Program)`: Traverses the entire program and calls analyze(_ code: Code) for each code block.
+- `analyze(program: Program)`: Traverses the entire program and calls `analyze(_ code: Code)` for each code block.
 
-- `analyze(_ code: Code)`: Iterates through all Instructions in the given code in order and performs analyze(_:) on each.
+- `analyze(_ code: Code)`: Iterates through all `Instruction`s in the given `code` in order and performs `analyze(_:)` on each.
 
 - During this process, it verifies the consistency of the code in advance using `assert(code.isStaticallyValid())`.
 
