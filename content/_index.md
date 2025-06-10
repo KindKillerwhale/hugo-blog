@@ -2,7 +2,7 @@
 
 # DongHyeon Hwang (*kind_killerwhale*)
 
-### Blockchain Security Researcher, Fuzzer Developer
+### Security Researcher at the **Ethereum Foundation**
 
 <br/><br/>
 
@@ -10,44 +10,45 @@
 
 <br/><br/>
 
-I am a **Blockchain Security Researcher** with expertise in **Reverse Engineering**, **Pwnable** and **Fuzzer Development**.
-
-<br/>
-
-My research primarily focuses on **Ethereum Core Security**, including **blockchain consensus mechanisms, execution layer vulnerabilities, and smart contract security**.
+I am a **Blockchain Security Researcher** with expertise in **Fuzzer Development** and **Reverse Engineering**.
 
 <br/><br/>
 
 ### Research & Projects
 
+<br/><br/>
+
+🔹 **Current Research** [**Fractal**] [`PRIVATE`]
+> SSZ Differential Fuzzer
 <br/>
 
-🔹 **Current Research**: Enhancing Ethereum security with [**karalabe/ssz fuzzer**](https://github.com/KindKillerwhale/sszfuzzer)  
+🔹 **Side Project** [ `Geth ABI Fuzzer` ] [`PRIVATE`]
+> Semantic-aware ABI fuzzer using libFuzzer + custom Go/C++ mutators.  
+> Implements differential fuzzing between **Geth and ethers.js** ABI encoders/decoders.
 
 <br/>
-
-🔹 **Ethereum Blog**: [Allocation Q4 2024](https://blog.ethereum.org/2025/02/06/allocation-q4-24)  
-
 <br/>
 
-🔹 **Side Project** [ `Talon` ]
+### Past Projects
+
+🔸 [[**karalabe/ssz fuzzer**]](https://github.com/KindKillerwhale/sszfuzzer)  [`PUBLIC`]
+> High-efficiency SSZ fuzzer with custom optimization. Used in fastssz vs karalabe differential testing.
+
+🔸 [**Varus**] [`PRIVATE`]
+> **LLM Based WASM LLVM libfuzzer with Custom Semantic Mutator**
+>
+> WASM fuzzing tool leveraging LLM capabilities for semantic mutation strategies.
+
+🔸 [**Talon**] [`PRIVATE`]
 > **Geth EVM Fuzzer Development**
 >
 > Talon combines LLVM libFuzzer with a custom mutator (written in C++), gofuzz-shim (tying Go fuzz callbacks to libFuzzer), and a Docker setup that bundles multiple EVM implementations (Go Ethereum, Erigon, evmone, Nethermind, Besu, etc.) for diff fuzzing. In other words, it allows one to fuzz EVM scenarios (blocks/transactions) while cross-checking different EVM engines.
 
 <br/>
 
-🔹 **Side Project** [ `Varus` ]
-> **LLM Based WASM LLVM libfuzzer Custom Mutator**
->
-> WASM fuzzing tool leveraging LLM capabilities for intelligent mutation strategies.
+### Featured
 
-<br/>
-
-🔹 **Research Interests**
-- Ethereum Execution & Consensus Security
-- Smart Contract Vulnerability Research
-- Blockchain Security Analysis
+🔹 [**Ethereum Blog**: Allocation Q4 2024](https://blog.ethereum.org/2025/02/06/allocation-q4-24)
 
 <br/><br/>
 
