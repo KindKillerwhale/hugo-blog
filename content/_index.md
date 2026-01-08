@@ -2,7 +2,10 @@
 
 # DongHyeon Hwang (*kind_killerwhale*)
 
-### Security Researcher at the **Ethereum Foundation**
+### Security Researcher
+> 2024 Dec - 2025 Nov Security Researcher at the Ethereum Foundation
+
+
 
 <br/><br/>
 
@@ -17,6 +20,10 @@ I am a **Blockchain Security Researcher** with expertise in **Fuzzer Development
 ### Research & Projects
 
 <br/><br/>
+
+🔹 **Current Research** [**Laputa**] [`PRIVATE`]
+> A robust coverage utility for getting coverage reports from various ethereum projects 
+
 
 🔹 **Current Research** [**Fractal**] [`PRIVATE`]
 > SSZ Differential Fuzzer
